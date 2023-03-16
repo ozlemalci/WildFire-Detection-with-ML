@@ -1,0 +1,1 @@
+# WildFire-Detection-with-ML
