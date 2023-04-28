@@ -24,3 +24,4 @@
       sense to model with the logarithm transform).
 
 ## Method
+![1](https://github.com/ozlemalci/WildFire-Detection-with-ML/blob/master/img1.PNG)
