@@ -23,5 +23,8 @@
       (this output variable is very skewed towards 0.0, thus it may make
       sense to model with the logarithm transform).
 
-## Method
+
 ![1](https://github.com/ozlemalci/WildFire-Detection-with-ML/blob/master/img1.PNG)
+
+
+## Method
